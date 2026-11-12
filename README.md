@@ -1,49 +1,80 @@
-# 💻 Frontend Loyihalar To'plami
+<!-- Yuqori qismdagi jonli gradient to'lqin banneri -->
+<div align="center">
+  <img src="https://vercel.app" width="100%" />
+</div>
 
-Ushbu repozitoriy **HTML5, CSS3 va JavaScript** texnologiyalari yordamida yaratilgan ikkita asosiy amaliy loyihani o'z ichiga oladi: **Uzum Market Clone** (elektron tijorat platformasi) va **Alien Battle** (brauzer o'yini).
+<!-- Jonli yoziluvchi matn animatsiyasi (Typing Effect) -->
+<div align="center">
+  <img src="https://demolab.com" alt="Typing SVG" />
+</div>
 
----
+<br/>
 
-## 🛠️ Tech Stack
-
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
-![JavaScript](https://shields.io)
-
----
-
-## 📂 Loyihalar ro'yxati
-
-### 1. 🛍️ Uzum Market Clone
-Mashhur **Uzum Market** internet-do'konining frontend kloni. Zamonaviy dizayn va qulay foydalanuvchi interfeysiga ega veb-ilova.
-
-**Asosiy imkoniyatlari:**
-- **Mahsulotlar katalogi:** Turli kategoriyalar bo'yicha saralangan mahsulotlar ro'yxati.
-- **Tezkor qidiruv:** Mahsulotlarni nomi bo'yicha izlash tizimi.
-- **Savatcha (Cart):** Mahsulotlarni qo'shish, sonini boshqarish va umumiy summani avtomatik hisoblash.
-- **Responsive dizayn:** Kompyuter va mobil qurilmalar ekraniga to'liq moslashuvchanlik.
+<!-- Asosiy texnologiyalar (Jonli ikonkalar) -->
+<div align="center">
+  <h3>⚡ Foydalanilgan Texnologiyalar (Tech Stack)</h3>
+  <img src="https://skillicons.dev" alt="Tech Stack" />
+</div>
 
 ---
 
-### 2. 🛸 Alien Battle — O'zga sayyoraliklarga qarshi jang
-Kosmik kema boshqaruvi va o'zga sayyoralik bosqinchilarga qarshi kurashga asoslangan dinamik brauzer o'yini.
+## 🚀 Loyihalar Tavsifi
 
-**O'yin imkoniyatlari:**
-- **Dinamik boshqaruv:** Klaviatura yordamida kosmik kemani harakatlantirish va o'q uzish.
-- **Ballar tizimi (Score):** Yo'q qilingan har bir dushman uchun ochko to'plash.
-- **Jonlar va Restart:** O'yin holatini kuzatish va yutqazganda qayta boshlash funksiyasi.
-- **Silliq animatsiyalar:** JavaScript va CSS yordamida yaratilgan jang effektlari.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🛍️ 1. Uzum Market Clone</h3>
+      <p align="center">
+        Mashhur <b>Uzum Market</b> elektron tijorat platformasining zamonaviy frontend kloni.
+      </p>
+      <ul>
+        <li><b>📦 Katalog:</b> Mahsulotlarning qulay va tartibli ko'rinishi.</li>
+        <li><b>🔍 Tezkor qidiruv:</b> Kerakli tovarni bir zumda topish tizimi.</li>
+        <li><b>🛒 Aqlli savatcha:</b> Mahsulot qo'shish va narxni avtomatik hisoblash.</li>
+        <li><b>📱 Responsive:</b> Telefon va kompyuter ekranlariga 100% moslashuv.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🛸 2. Alien Battle Game</h3>
+      <p align="center">
+        O'zga sayyoralik bosqinchilarga qarshi kurashga asoslangan dinamik brauzer o'yini.
+      </p>
+      <ul>
+        <li><b>🕹️ Boshqaruv:</b> Klaviatura tugmalari orqali tezkor harakat va hujum.</li>
+        <li><b>🏆 Score tizimi:</b> Har bir g'alaba uchun jonli ballar yig'ish.</li>
+        <li><b>❤️ Jonlar va Restart:</b> O'yin jarayonini nazorat qilish va qayta boshlash.</li>
+        <li><b>✨ Animatsiyalar:</b> JavaScript DOM va CSS effektlari uyg'unligi.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🚀 Ishga tushirish
+<!-- Bosganda ochiladigan maxsus menyu (Interactive Accordion) -->
+<details>
+  <summary><b>⚙️ Loyihani kompyuterda ishga tushirish qo'llanmasi (Bosing)</b></summary>
+  <br/>
+  
+  1. Repozitoriyni kompyuteringizga yuklab oling:
+     ```bash
+     git clone https://github.com
+     ```
+  2. Loyiha papkasiga kiring va `index.html` faylini istalgan brauzerda oching.
+</details>
 
-1. Repozitoriyni kompyuteringizga yuklab oling:
-   ```bash
-   git clone https://github.com
-   ```
-2. Kerakli loyiha papkasiga kiring.
-3. `index.html` faylini istalgan zamonaviy brauzerda oching.
+---
 
-## 👨‍💻 Muallif
-* Ushbu loyihalar amaliy ko'nikmalarni mustahkamlash maqsadida ishlab chiqildi.
+<!-- Sizning GitHub profilingizga ulangan jonli statistika -->
+<div align="center">
+  <h3>📊 GitHub Statistika</h3>
+  <img height="165" src="https://vercel.app" />
+  <img height="165" src="https://vercel.app" />
+</div>
+
+<br/>
+
+<!-- Pastki qismdagi yakuniy to'lqin effekti -->
+<div align="center">
+  <img src="https://vercel.app" width="100%" />
+</div>
