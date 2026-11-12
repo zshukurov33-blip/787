@@ -1,136 +1,149 @@
-
+<!-- 1. ULTRA KIBER-BANNER (SHARK ANIMATION) -->
 <div align="center">
-  <img src="https://vercel.app🚀%20Frontend%20Developer%20%7C%20Uzum%20Market%20%26%20Alien%20Battle&descAlignY=65&descSize=18" width="100%" />
+  <img src="https://vercel.app" width="100%" />
 </div>
 
-
+<!-- 2. JONLI KIBER-NAZORAT PANELI (BADGES) -->
 <div align="center">
-  <img src="https://komarev.com" alt="Views" />
-  <img src="https://shields.io" alt="Status" />
-  <img src="https://shields.io" alt="Level" />
+  <img src="https://komarev.com" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
 </div>
 
 <br/>
 
-
+<!-- 3. XAKERLAR TERMINALI (MULTI-LINE TYPING SVG) -->
 <div align="center">
-  <img src="https://demolab.com" alt="Typing SVG" />
+  <img src="https://demolab.com" alt="Terminal" />
 </div>
 
----
+<!-- JONLI NEON LAZER CHIZIG'I -->
+<img src="https://githubusercontent.com" width="100%" />
 
-
+<!-- 4. RPG O'YINCHI PROFILI VA KIBER-AVATAR -->
 <table align="center">
   <tr>
-    <td width="40%" align="center">
-      <img src="https://giphy.com" width="100%" alt="Coding GIF" />
+    <td width="38%" align="center">
+      <img src="https://giphy.com" width="100%" alt="Cyber Dev" />
+      <br/>
+      <sub><b>⚡ KIBER-ISH STANSIYASI FAOL</b></sub>
     </td>
-    <td width="60%" valign="middle">
-      <h3>👨‍💻 Loyiha Muallifi Haqida Qisqacha</h3>
+    <td width="62%" valign="top">
+      <h3>🧬 Dasturchi Xarakteristikasi (Player Stats)</h3>
       <p>
-        Men zamonaviy veb-texnologiyalar yordamida tezkor, interaktiv va ko'zni quvontiradigan veb-ilovalar yarataman. Ushbu repozitoriyda mening <b>2 ta asosiy amaliy ishim</b> jamlangan:
+        Men oddiy saytlar emas, balki <b>yuqori tezlikda ishlovchi, interaktiv va zamonaviy veb-tajribalar</b> yarataman. Har bir piksel va har bir qator kod aniqlik bilan yozilgan.
       </p>
-      <ul>
-        <li>🔥 <b>Murakkab DOM manipulyatsiyasi</b> va dinamik o'yin mexanikasi</li>
-        <li>🎨 <b>Zamonaviy UI/UX dizayn</b> va barcha ekranlarga moslashuvchanlik</li>
-        <li>⚡ <b>Toza va optimallashtirilgan</b> JavaScript kodi</li>
-      </ul>
+      <pre>
+⚔️ Frontend Magic   [████████████████████] 100%
+⚡ JavaScript Logic [██████████████████░░]  92%
+🎨 UI/UX Cyber Art  [███████████████████░]  96%
+🚀 Clean Code       [████████████████████] 100%
+      </pre>
     </td>
   </tr>
 </table>
 
----
+<!-- JONLI NEON LAZER CHIZIG'I -->
+<img src="https://githubusercontent.com" width="100%" />
 
-
+<!-- 5. QUROLLAR ARSENALI (ANIMATED SKILL ICONS) -->
 <div align="center">
-  <h2>⚡ Tech Stack & Qurollar</h2>
-  <img src="https://skillicons.dev" alt="Tech Stack" />
+  <h2>🛸 Texnologiyalar Arsenali</h2>
+  <img src="https://skillicons.dev" alt="Arsenal" />
 </div>
 
 <br/>
 
-
-<h2 align="center">🏆 Amaliy Loyihalar Portfeli</h2>
+<!-- 6. IKKALA LOYIHANING KIBER-KARTALARI -->
+<div align="center">
+  <h2>🌌 Amaliy Loyihalar: Kiber-Vitrinasi</h2>
+</div>
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <div align="center">
+        <img src="https://giphy.com" width="100%" height="160" style="object-fit: cover;" />
+        <br/><br/>
         <img src="https://shields.io" />
-        <h3>🛍️ Uzum Market Clone</h3>
       </div>
-      <p>
-        O'zbekistondagi eng yirik marketpleys — <b>Uzum Market</b> platformasining mukammal frontend nusxasi.
+      <p align="center">
+        <b>Elektron tijoratning eng mukammal frontend arxitekturasi.</b>
       </p>
       <ul>
-        <li>✅ <b>Dinamik Katalog:</b> Mahsulotlarni kategoriyalar bo'yicha saralash.</li>
-        <li>✅ <b>Jonli Qidiruv:</b> Real vaqt rejimida tovarlarni izlash.</li>
-        <li>✅ <b>Smart Savatcha:</b> Tovar qo'shish, o'chirish va umumiy summani hisoblash.</li>
-        <li>✅ <b>100% Responsive:</b> Mobil va kompyuter ekranlariga to'liq mos.</li>
+        <li>💎 <b>Smart Katalog:</b> Kategoriyalar bo'yicha tezkor filtrlash.</li>
+        <li>⚡ <b>Live Search:</b> Yozish bilan birga ishlovchi qidiruv tizimi.</li>
+        <li>🛒 <b>Dinamik Savatcha:</b> Narxlar, chegirmalar va sonni avtomatik hisoblash.</li>
+        <li>📱 <b>Adaptive Grid:</b> Har qanday ekran o'lchamiga mukammal moslashuv.</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <div align="center">
+        <img src="https://giphy.com" width="100%" height="160" style="object-fit: cover;" />
+        <br/><br/>
         <img src="https://shields.io" />
-        <h3>🛸 Alien Battle Game</h3>
       </div>
-      <p>
-        O'zga sayyoralik bosqinchilarga qarshi kurashuvchi dinamik kosmik jang o'yini.
+      <p align="center">
+        <b>JavaScript fizikasi asosida qurilgan kosmik jang simulyatori.</b>
       </p>
       <ul>
-        <li>✅ <b>Klaviatura Boshqaruvi:</b> Silliq harakat va lazer o'qlari otish tizimi.</li>
-        <li>✅ <b>Score & Rekord:</b> Har bir dushman uchun ochko va rekord o'rnatish.</li>
-        <li>✅ <b>Jonlar & Game Over:</b> O'yin holatini nazorat qilish va qayta boshlash.</li>
-        <li>✅ <b>Maxsus Effektlar:</b> Portlash animatsiyalari va to'qnashuv fizikasi.</li>
+        <li>🕹️ <b>60 FPS Boshqaruv:</b> Klaviatura tugmalariga bir zumda javob berish.</li>
+        <li>💥 <b>Collision Engine:</b> Lazer va dushman kemalari to'qnashuv algoritmi.</li>
+        <li>🏆 <b>High-Score Tizimi:</b> Ballar va rekordlarni jonli hisoblash.</li>
+        <li>🔄 <b>Instant Restart:</b> O'yinni uzluksiz qayta boshlash mexanizmi.</li>
       </ul>
     </td>
   </tr>
 </table>
 
----
+<!-- JONLI NEON LAZER CHIZIG'I -->
+<img src="https://githubusercontent.com" width="100%" />
 
+<!-- 7. INTERAKTIV TERMINAL (OCHILADIGAN QO'LLANMA) -->
 <details align="center">
-  <summary><b>💻 Loyihalarni Kompyuterda Ishga Tushirish (Bosing)</b></summary>
+  <summary><b>🔓 Tizimni Lokal Kompyuterda Ishga Tushirish (Kodni Ochish)</b></summary>
   <br/>
   <div align="left">
 
 ```bash
-# 1. Repozitoriyni kompyuterga klon qilish
+# [1] Repozitoriyni klonlash
 git clone https://github.com
 
-# 2. Papkaga kirish
+# [2] Loyiha direktoriyasiga kirish
 cd 787
 
-# 3. index.html faylini brauzerda ochish
+# [3] index.html faylini brauzerda ishga tushirish
+start index.html
 ```
   </div>
 </details>
 
----
+<br/>
 
-<!-- 8. GITHUB KUBOKLAR JAVONI (TROPHIES) -->
+<!-- 8. KUBOKLAR JAVONI (TROPHIES) -->
 <div align="center">
-  <h2>🏅 GitHub Yutuqlarim (Trophies)</h2>
-  <img src="https://vercel.app" width="95%" alt="Trophies" />
+  <h2>🏆 GitHub Yutuqlar va Kuboklar</h2>
+  <img src="https://vercel.app" width="95%" />
 </div>
 
 <br/>
 
-<!-- 9. JONLI STATISTIKA VA STREAK KARTALARI -->
+<!-- 9. KIBER-STATISTIKA VA STREAK -->
 <div align="center">
-  <h2>📊 Jonli GitHub Statistika</h2>
-  <img height="170" src="https://vercel.app" />
-  <img height="170" src="https://herokuapp.com" />
+  <h2>📊 Jonli Tizim Telemetriyasi</h2>
+  <img height="175" src="https://vercel.app" />
+  <img height="175" src="https://herokuapp.com" />
 </div>
 
 <br/>
 
-<!-- 10. 3D FAOLLIK GRAFIGI (ACTIVITY GRAPH) -->
+<!-- 10. 3D FAOLLIK GRAFIGI -->
 <div align="center">
-  <img src="https://vercel.app" width="95%" alt="Activity Graph" />
+  <img src="https://vercel.app" width="95%" />
 </div>
 
-<!-- 11. YAKUNIY NEON TO'LQIN -->
+<!-- 11. YAKUNIY KIBER-TO'LQIN -->
 <div align="center">
   <img src="https://vercel.app" width="100%" />
 </div>
